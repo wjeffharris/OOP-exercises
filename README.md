@@ -23,6 +23,7 @@ Write code to
 5) Write a statement to print the contact info (email and phone) of Sonny.
 6) Write another statement to print the contact info of Jordan.
 
+
 ## Card
 Create a class Card. A card object will have 2 properties:
 
